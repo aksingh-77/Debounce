@@ -1,0 +1,19 @@
+.container{
+    margin-left: 50vw;
+    transform: translateX(-25%);
+}
+
+.heading-1{
+    font-size: 4rem;
+}
+
+.heading-2{
+    font-size: 2rem;
+}
+
+.input, .para{
+    font-size: 2rem;
+    display: flex;
+    margin-left: 25%;
+    transform: translateX(-50%);
+}
